@@ -2,6 +2,8 @@
 
 **Coursera Course: HTML, CSS and Javascript for Web Developers**
 
+**LINK:** https://ananyagrawal.github.io/mod3_solution/ 
+
 **Problem Statement:**
 1. Navbar: Create a navbar that scrolls away together with the page (the navbar should become invisible and is not fixed to the top when you scroll the page down). The navbar should have a company name (i.e., `navbar-brand` class) called "Food, LLC" that is aligned to the left side of the navbar. (*See* [https://getbootstrap.com/docs/3.3/components/#navbar](https://getbootstrap.com/docs/3.3/components/#navbar). *Make the browser window narrower to see the mobile menu button appear in the first example shown at the provided link.*)
 <br><br>
